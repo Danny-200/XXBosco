@@ -1,0 +1,7 @@
+{
+  "name": "fig",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

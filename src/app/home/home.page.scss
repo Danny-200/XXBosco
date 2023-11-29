@@ -1,0 +1,55 @@
+body {
+  background-image: url('https://i.pinimg.com/originals/1a/74/19/1a7419f1bd558f2d5aad5aa6c6559969.jpg');
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+  height: 50%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background-color: rgba(124, 54, 54, 0.8);
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  max-width: 300px;
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+#login-button {
+  background-color: #007bff;
+}
+
+#profile-button {
+  background-color: #28a745;
+}
